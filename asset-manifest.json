@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.1d6b70ea.css",
-    "main.js": "/static/js/main.8e0fe6bf.js",
+    "main.css": "/static/css/main.884704b2.css",
+    "main.js": "/static/js/main.216b1f7a.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/bluemer.png": "/static/media/bluemer.66bb2bd9fad682bce527.png",
     "static/media/trivago1.png": "/static/media/trivago1.67eb2ba724598b7e4888.png",
@@ -21,12 +21,12 @@
     "static/media/css-3.png": "/static/media/css-3.4a6549b8c2b4cda8bb88.png",
     "static/media/js.png": "/static/media/js.3dfb665e058d08c99f28.png",
     "index.html": "/index.html",
-    "main.1d6b70ea.css.map": "/static/css/main.1d6b70ea.css.map",
-    "main.8e0fe6bf.js.map": "/static/js/main.8e0fe6bf.js.map",
+    "main.884704b2.css.map": "/static/css/main.884704b2.css.map",
+    "main.216b1f7a.js.map": "/static/js/main.216b1f7a.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1d6b70ea.css",
-    "static/js/main.8e0fe6bf.js"
+    "static/css/main.884704b2.css",
+    "static/js/main.216b1f7a.js"
   ]
 }
