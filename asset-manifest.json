@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.b355600c.css",
-    "main.js": "/static/js/main.d8e426b8.js",
+    "main.js": "/static/js/main.679cefa5.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/bluemer.png": "/static/media/bluemer.66bb2bd9fad682bce527.png",
     "static/media/trivago1.png": "/static/media/trivago1.67eb2ba724598b7e4888.png",
@@ -23,11 +23,11 @@
     "static/media/js.png": "/static/media/js.3dfb665e058d08c99f28.png",
     "index.html": "/index.html",
     "main.b355600c.css.map": "/static/css/main.b355600c.css.map",
-    "main.d8e426b8.js.map": "/static/js/main.d8e426b8.js.map",
+    "main.679cefa5.js.map": "/static/js/main.679cefa5.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b355600c.css",
-    "static/js/main.d8e426b8.js"
+    "static/js/main.679cefa5.js"
   ]
 }
