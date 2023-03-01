@@ -1,17 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.969cba89.css",
-    "main.js": "/static/js/main.a79fe5e0.js",
+    "main.js": "/static/js/main.8b3a1a01.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/youtube.png": "/static/media/youtube.c3cdc8f3485f4e88d519.png",
     "static/media/bluemer.png": "/static/media/bluemer.c08e7f2cedf9c5b747f9.png",
     "static/media/Shubham_Tribhuvan_Resume.pdf": "/static/media/Shubham_Tribhuvan_Resume.98a315705583af0d7cfe.pdf",
     "static/media/trivago1.png": "/static/media/trivago1.f86bc3063c625bddb98e.png",
-    "static/media/student.png": "/static/media/student.7b65edb06fd70830e040.png",
+    "static/media/student.png": "/static/media/student.84ebceac9e3f80009743.png",
     "static/media/thehindu.png": "/static/media/thehindu.992c79b15d06b3ffe665.png",
     "static/media/apple.png": "/static/media/apple.6e2d3a08bb6f48ddfd39.png",
     "static/media/vp.png": "/static/media/vp.1f28ffa9073d9633f446.png",
-    "static/media/react.png": "/static/media/react.35639ed930462bfcd544.png",
     "static/media/insta.png": "/static/media/insta.5e853fbce6d1f4a3c580.png",
     "static/media/java.png": "/static/media/java.f4ea765878d6e68edefd.png",
     "static/media/nodejs.png": "/static/media/nodejs.007e99f68b718e476aba.png",
@@ -25,17 +24,18 @@
     "static/media/facebook.png": "/static/media/facebook.feca7f8865a6071cf66d.png",
     "static/media/redux.png": "/static/media/redux.b3b939c66aecf7d53967.png",
     "static/media/html-5.png": "/static/media/html-5.cfb2ba4a6b1c3de295bc.png",
+    "static/media/react.png": "/static/media/react.2a0cac33f155e4a27216.png",
     "static/media/css-3.png": "/static/media/css-3.4a6549b8c2b4cda8bb88.png",
     "static/media/js.png": "/static/media/js.3dfb665e058d08c99f28.png",
     "static/media/express.png": "/static/media/express.e3d4f9e5c8b469e45838.png",
     "static/media/Mangodb.svg": "/static/media/Mangodb.0781b723446e1f8a1734f7831a9c3313.svg",
     "index.html": "/index.html",
     "main.969cba89.css.map": "/static/css/main.969cba89.css.map",
-    "main.a79fe5e0.js.map": "/static/js/main.a79fe5e0.js.map",
+    "main.8b3a1a01.js.map": "/static/js/main.8b3a1a01.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.969cba89.css",
-    "static/js/main.a79fe5e0.js"
+    "static/js/main.8b3a1a01.js"
   ]
 }
