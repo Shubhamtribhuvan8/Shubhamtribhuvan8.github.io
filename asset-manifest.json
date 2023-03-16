@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.969cba89.css",
-    "main.js": "/static/js/main.8b3a1a01.js",
+    "main.js": "/static/js/main.5fff6fc1.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/youtube.png": "/static/media/youtube.c3cdc8f3485f4e88d519.png",
+    "static/media/tumblr.png": "/static/media/tumblr.947d1f17e10441217d4f.png",
     "static/media/bluemer.png": "/static/media/bluemer.c08e7f2cedf9c5b747f9.png",
     "static/media/Shubham_Tribhuvan_Resume.pdf": "/static/media/Shubham_Tribhuvan_Resume.98a315705583af0d7cfe.pdf",
     "static/media/trivago1.png": "/static/media/trivago1.f86bc3063c625bddb98e.png",
@@ -16,6 +17,7 @@
     "static/media/nodejs.png": "/static/media/nodejs.007e99f68b718e476aba.png",
     "static/media/git.png": "/static/media/git.fb2905d1945d71571ec2.png",
     "static/media/github.png": "/static/media/github.f3d873d71aa989badfd2.png",
+    "static/media/freedom.png": "/static/media/freedom.8f91a8fbc74aaca7a219.png",
     "static/media/profile.jpg": "/static/media/profile.2122bfb131f850846a6f.jpg",
     "static/media/whatsapp.png": "/static/media/whatsapp.5f67f4aab8b866a09173.png",
     "static/media/twitter.png": "/static/media/twitter.fab27476e98ab8a49167.png",
@@ -31,11 +33,11 @@
     "static/media/Mangodb.svg": "/static/media/Mangodb.0781b723446e1f8a1734f7831a9c3313.svg",
     "index.html": "/index.html",
     "main.969cba89.css.map": "/static/css/main.969cba89.css.map",
-    "main.8b3a1a01.js.map": "/static/js/main.8b3a1a01.js.map",
+    "main.5fff6fc1.js.map": "/static/js/main.5fff6fc1.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.969cba89.css",
-    "static/js/main.8b3a1a01.js"
+    "static/js/main.5fff6fc1.js"
   ]
 }
