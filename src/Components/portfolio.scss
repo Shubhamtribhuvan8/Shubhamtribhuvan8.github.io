@@ -1,0 +1,203 @@
+$header: #00B288;
+$sobre: #FFFFFF;
+$nav: #DC3545;
+.fas.fa-bars{
+  font-size: 1.9rem;
+  color: white;
+}
+h4{
+  color: aliceblue;
+}
+
+article {
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+}
+
+.img-fluid {
+  transition: all 1s;
+}
+
+article:hover > .img-fluid {
+  transform: scale(1.1);
+}
+article:hover > .project-card {
+  transform: translateX(0);
+  visibility: inherit;
+}
+.project-card {
+  padding: 15px;
+  // visibility: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0,0,0, .7);
+  transition: all .5s;
+  z-index: 2;
+  transform: translateX(-100%);
+  
+  h3 {
+    color: rgb(248, 233, 233);
+    font-size: 2rem;
+    letter-spacing: 2px;
+    text-align: center;
+    font-family: 'Heebo', sans-serif;
+  }
+  
+  p {
+    color: white;
+    font-weight: bolder;
+    letter-spacing: 1px;
+    text-align: center;
+    font-family: 'EB Garamond', serif;
+  }
+}
+
+
+#portfolio, #encontrame {
+  text-align: center;
+  color: black;
+  display:flex;
+   justify-content: center;
+   font: 19px/30px Montserrat,Montserrat,sans-serif;
+   font-size: 40px;
+}
+
+#contacto {
+  text-align: center;
+  margin-bottom: 50px;
+  font-size: 2.7rem;
+  color: $header;
+  font-weight: bolder;
+  font-family: 'Khula', sans-serif;
+}
+
+.contacto {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
+input, textarea {
+  margin-bottom: 40px;
+  font-family: 'EB Garamond', serif;
+}
+
+.form-control {
+  border: none;
+  border-bottom: 2px solid $header;
+}
+
+.form-control-lg {
+  border-radius: unset;
+}
+
+#project-github-link {
+  background-color: $nav;
+  color: white;
+  font-weight: bolder;
+  letter-spacing: 1px;
+  padding: 10px;
+  box-shadow: 0px 0px 3px black;
+  transition: all .5s;
+  
+  &:hover {
+    background-color: #c42f3b;
+  }
+}
+
+.fab {
+  font-size: 2rem;
+  padding: 20px;
+  background: linear-gradient(70deg, $nav, #f73b4b);
+  border-radius: 100%;
+  cursor: pointer;
+  transition: all .5s;
+  margin: 5px;
+}
+
+.fab:hover {
+  transform: scale(1.1);
+}
+
+.fa-facebook-f {
+  padding: 20px 26px;
+}
+
+footer {
+  
+  background-color: $header;
+  padding: 150px 0;
+  .container {
+    
+    width: 90%;
+    margin: 0 auto;
+  }
+}
+
+
+#hecho {
+  background-color: $nav;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+h6 {
+  color: white;
+  font-size: 1rem;
+  letter-spacing: 1px;
+  text-align: center;
+  padding: 5px;
+}
+
+@media (min-width: 768px) {
+  .p-2 {
+  width: 45%;
+}
+  
+  article {
+    
+    width: 50%;
+    height: 42vh;
+    display: inline-block;
+  }
+  
+  .formulario {
+    width: 70%;
+    margin: 0 auto;
+  }
+}
+
+@media (min-width: 1000px) {
+  footer {
+    
+    .container {
+      
+      width: 60%
+    }
+    }
+  
+  article {
+    height: 56vh;
+  }
+}
+// .project-github-link{
+//   // height: 43px;
+//   // font-weight: bold;
+//   // border-radius: 34px;
+//   // border: none;
+//   // font-size: large;
+// }
+// .project-deployed-link{
+//   height: 43px;
+//   font-weight: bold;
+//   border: none;
+//   border-radius: 34px;
+//   font-size: large;
+// }
+
+
+

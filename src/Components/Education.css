@@ -1,0 +1,19 @@
+.LineBorder{
+animation-fill-mode: both;
+animation-duration: 2000ms;
+animation-delay: 0ms;
+animation-iteration-count: 1;
+opacity: 1;
+animation-name: react-reveal-377780113109365-4;
+transition: width .6s ease-in-out;
+}
+#about{
+    width: 80%;
+    margin: auto;
+}
+img:hover{
+    background-color: white;
+    padding: 7px 6px;
+    transition: 0.5s;
+    cursor: pointer;
+}
