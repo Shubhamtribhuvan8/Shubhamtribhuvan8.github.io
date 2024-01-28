@@ -47,7 +47,9 @@ import image10 from './SkillImage/Mangodb.svg';
 import image11 from './SkillImage/redux.png';
 import image12 from './SkillImage/chakra.png';
 import image13 from "./SkillImage/vuejs.png"
-import imgae14 from "./SkillImage/nuxtjs.png"
+import image14 from "./SkillImage/nuxtjs.png"
+import image15 from "./SkillImage/nestjs.png"
+import image16 from "./SkillImage/nextjs.png"
 import '../App.css';
 
 export default function Skills() {
@@ -70,16 +72,16 @@ export default function Skills() {
           <Tilt>
           <h2 style={styl1}> <img src={image5} alt="image" className="skills-card-img" style={{width:"52px"}} /> JavaScript </h2>
           <h2 style={styl1}> <img src={image6} alt="image" className="skills-card-img" style={{width:"52px"}} /> ReactJS </h2>
-          <h2 style={styl1}> <img src={image7} alt="image" className="skills-card-img" style={{width:"52px"}} /> Node.js </h2>
+          <h2 style={styl1}> <img src={image7} alt="image" className="skills-card-img" style={{width:"52px"}} /> NodeJS </h2>
           <h2 style={styl1}> <img src={image8} alt="image" className="skills-card-img" style={{width:"52px"}} /> GitHub </h2>
           </Tilt>
         </div>
         <div className="skills-card-name">
           <Tilt>
           <h2 style={styl1}> <img src={image13} alt="image" className="skills-card-img" style={{width:"52px"}} /> VueJS </h2>
-          <h2 style={styl1}> <img src={imgae14} alt="image" className="skills-card-img" style={{width:"52px"}} /> NuxtJS </h2>
-          <h2 style={styl1}> <img src={image7} alt="image" className="skills-card-img" style={{width:"52px"}} /> Node.js </h2>
-          <h2 style={styl1}> <img src={image8} alt="image" className="skills-card-img" style={{width:"52px"}} /> GitHub </h2>
+          <h2 style={styl1}> <img src={image14} alt="image" className="skills-card-img" style={{width:"52px"}} /> NuxtJS </h2>
+          <h2 style={styl1}> <img src={image15} alt="image" className="skills-card-img" style={{width:"52px"}} /> NestJS </h2>
+          <h2 style={styl1}> <img src={image16} alt="image" className="skills-card-img" style={{width:"52px"}} /> NextJs </h2>
           </Tilt>
         </div>S
         <div className="skills-card-name">
